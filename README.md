@@ -1,19 +1,33 @@
-👋 Hi there, I'm Ravi Verma!
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<h1 align="center">Hi 👋, I'm Ravi verma</h1>
+<h3 align="center">A passionate frontend developer from Bhopal.</h3>
 
-👨‍💻 I'm a passionate software developer with expertise in HTML, CSS, JavaScript, Java, and Python. My GitHub repositories showcase my journey as a programmer and reflect my commitment to writing clean, efficient, and scalable code.
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
 
-🌟 I believe in the power of collaboration and open-source development. You'll find a diverse range of projects in my GitHub profile, including personal projects, contributions to open-source repositories, and experiments with cutting-edge technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviii22&label=Profile%20views&color=0e75b6&style=flat" alt="raviii22" /> </p>
 
-💡 Constantly seeking opportunities to learn and grow, I love exploring new frameworks, libraries, and tools that enhance the development process. I have a strong grasp of front-end technologies such as HTML, CSS, and JavaScript, allowing me to create captivating user interfaces and responsive web applications.
+<p align="left"> <a href="https://twitter.com/https://twitter.com/raviverma2250" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/raviverma2250?logo=twitter&style=for-the-badge" alt="https://twitter.com/raviverma2250" /></a> </p>
 
-🤝 Collaboration is key! I enjoy working in teams and have experience with version control systems like Git and GitHub. You'll find my repositories well-documented and organized, showcasing my dedication to maintaining clean and easily understandable codebases.
+- 🌱 I’m currently learning **MySQL**
 
-⚡️ As an avid problem solver, I thrive in tackling complex challenges and finding innovative solutions. I am well-versed in Java and Python, enabling me to build robust backend systems, design efficient algorithms, and handle data manipulation and analysis tasks.
+- 💬 Ask me about **Java,Python**
 
-📚 When I'm not coding, you can find me reading tech blogs, exploring the latest trends in software development, and sharing my knowledge through technical articles and tutorials.
+- 📫 How to reach me **verma.ravi9050@gmail.com**
 
-🌍 I'm always open to exciting opportunities and collaborations. If you have any questions, ideas, or projects you'd like to discuss, feel free to reach out to me. Let's connect and build something amazing together!
+- ⚡ Fun fact **I am funny😅**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/raviverma2250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/raviverma2250" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-verma-881112206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-verma-881112206/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mr._ravi_22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr._ravi_22/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviii22&show_icons=true&locale=en&layout=compact" alt="raviii22" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviii22&show_icons=true&locale=en" alt="raviii22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviii22&" alt="raviii22" /></p>
